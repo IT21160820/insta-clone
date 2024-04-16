@@ -9,7 +9,7 @@ export default function NotFoundPage() {
       <p>
         The link you followed may be broken, or the page may have been removed.{" "}
         <Link to="/" className="text-blue-600">
-          Go back to Instagram
+          Go back to Flexfit
         </Link>
       </p>
     </div>
