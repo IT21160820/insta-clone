@@ -23,7 +23,7 @@ const Sidebar = () => {
           <div className="pt-10">
             <img
               className="w-28"
-              src="https://i.imgur.com/zqpwkLQ.png"
+              src="https://www.shopelitepromo.com/content/v/vspfiles/assets/images/flexfit-logo.png"
               alt=""
             />
           </div>
